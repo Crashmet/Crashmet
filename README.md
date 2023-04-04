@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - Vue, Vuex, Vue-router, Vuetify
 - React (Hooks, Router)
-- JavaScript (ES6+)
+- JavaScript
 - HTML, CSS
 - Git
 - BootstrapVue, Tailwind CSS, Bootstrap, Materialize, Apache echarts
