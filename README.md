@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, my name is Shamil Valitov
+<div align="center">
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>  
 
-I’m a Frontend Developer with experience in creating SPA with Vue / React. I am constantly improving my knowledge and actively studying new technologies, applying them in practice.
+# <div align="center"> Developer Frontend - Vue | React </div>  
 
 <!-- SKILLS -->
 
@@ -37,7 +40,7 @@ I’m a Frontend Developer with experience in creating SPA with Vue / React. I a
 
 ### 🌎 Languages
 - Russian - Native
-- English - A2
+- English - B1
 
 <!-- PROJECTS 
 
