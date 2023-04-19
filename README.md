@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 - React (Hooks, Router)
 - JavaScript | TypeScript
 - HTML, CSS
+- Canvas
 - Git
-- BootstrapVue, Tailwind CSS, Bootstrap, Materialize, Apache echarts
-- Webpack
+- Tailwind CSS, BootstrapVue,  Bootstrap, Materialize, Apache echarts
+- Webpack, Vite
 - Rest API, Axios, WebScoket, BroadcastChannel
-- Jest
-- ESlint and Prettier
+- ESlint and Prettier,  Jest
 - SOLID, ООP, БЭМ, Pixel-perfect, Responsive and cross-browser layout
 - Photoshop / Figma
 - PostgreSQL
