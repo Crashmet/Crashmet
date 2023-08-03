@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=telegram&colorB=555
-[telegram-url]: https://t.me/pantera98
+[telegram-url]: https://t.me/pantera63
 
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
 [github-url]: https://github.com/Crashmet 
