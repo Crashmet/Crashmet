@@ -20,29 +20,26 @@ Here are some ideas to get you started:
 
 </div>   -->
 
-<!-- # <div align="center"> Developer Frontend - Vue | React </div>   -->
+<!-- # <div align="center"> Developer JavaScript </div>   -->
 
 <!-- SKILLS -->
 
-### 🛠️ Hard skills
+<!--  ### 🛠️ Hard skills
 
 - Vue, Vuex, Vue-router, Vuetify
 - React (Hooks, Router)
 - JavaScript | TypeScript
 - HTML, CSS
 - Canvas
-- Git
-- Tailwind CSS, BootstrapVue,  Bootstrap, Materialize, Apache echarts
+- Tailwind CSS,  Bootstrap, Materialize, Apache echarts
 - Webpack, Vite
 - Rest API, Axios, WebScoket, BroadcastChannel
-- ESlint and Prettier,  Jest
-- SOLID, ООP, БЭМ, Pixel-perfect, Responsive and cross-browser layout
 - Photoshop / Figma
 - PostgreSQL
 
 ### 🌎 Languages
 - Russian - Native
-- English - B1
+- English - B1 -->
 
 <!-- PROJECTS 
 
@@ -54,20 +51,20 @@ Here are some ideas to get you started:
 
 <!-- CONTACT ME -->
 
-### 📝 Contact me
+<!-- ### 📝 Contact me -->
 
 [![Telegram][telegram-shield]][telegram-url]
-[![GitHub][github-shield]][github-url]
+<!-- [![GitHub][github-shield]][github-url] -->
 
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url]  -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [telegram-shield]: https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=telegram&colorB=555
-[telegram-url]: https://t.me/pantera95
+[telegram-url]: https://t.me/pantera98
 
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=555
-[github-url]: https://github.com/Crashmet
+[github-url]: https://github.com/Crashmet 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/poccu/
+[linkedin-url]: https://www.linkedin.com/in/poccu/ 
